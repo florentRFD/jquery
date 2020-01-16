@@ -1,0 +1,11 @@
+@import url('reset.css');
+
+body {
+  background-color: #FFF;
+  color: #000;
+  font-size: 30px;
+}
+
+p span {
+  color: #F00;
+}
